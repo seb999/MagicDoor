@@ -1,0 +1,15 @@
+C:\_git\dotnet\MagicDoor\bin\Debug\net7.0\MagicDoor.exe
+C:\_git\dotnet\MagicDoor\bin\Debug\net7.0\MagicDoor.deps.json
+C:\_git\dotnet\MagicDoor\bin\Debug\net7.0\MagicDoor.runtimeconfig.json
+C:\_git\dotnet\MagicDoor\bin\Debug\net7.0\MagicDoor.dll
+C:\_git\dotnet\MagicDoor\bin\Debug\net7.0\MagicDoor.pdb
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.csproj.AssemblyReference.cache
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.AssemblyInfoInputs.cache
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.AssemblyInfo.cs
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.csproj.CoreCompileInputs.cache
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.dll
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\refint\MagicDoor.dll
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.pdb
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\MagicDoor.genruntimeconfig.cache
+C:\_git\dotnet\MagicDoor\obj\Debug\net7.0\ref\MagicDoor.dll
