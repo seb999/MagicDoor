@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagicDoor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17fa4f1c2c55ee48c96fb471c085de579569d195")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagicDoor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagicDoor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
